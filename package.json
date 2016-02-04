@@ -4,8 +4,8 @@
   "description": "Base gulp configuration //",
   "homepage": "https://github.com/russiansoon/gulp-start",
   "scripts": {
-    "dev": "NODE_ENV=development && gulp",
-    "build": "NODE_ENV=production gulp clean && gulp"
+    "dev": "NODE_ENV=development gulp clean && gulp",
+    "build": "NODE_ENV=production gulp prod"
   },
   "author": {
     "name": "Nik Shevchenko",
