@@ -3,7 +3,10 @@
   "version": "1.0.0",
   "description": "Base gulp configuration //",
   "homepage": "https://github.com/russiansoon/gulp-start",
-  "scripts": {},
+  "scripts": {
+    "dev": "NODE_ENV=development && gulp",
+    "build": "NODE_ENV=production gulp clean && gulp"
+  },
   "author": {
     "name": "Nik Shevchenko",
     "email": "russiansoon@gmail.com",

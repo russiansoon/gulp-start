@@ -25,3 +25,6 @@ Install the dependencies for u project:
 Now run: `gulp`
 
 Clear 'dist': `gulp clean`
+
+Development: `npm run dev`
+Production: `npm run build`
