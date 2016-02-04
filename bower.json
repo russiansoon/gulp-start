@@ -11,10 +11,7 @@
   "ignore": [
     "**/.*",
     "node_modules",
-    "bower_components",
-    "src/bower_components/",
-    "test",
-    "tests"
+    "src/bower_components/"
   ],
   "devDependencies": {
     "bootstrap": "v4.0.0-alpha.2"
