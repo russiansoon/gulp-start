@@ -1,6 +1,6 @@
 # Gulp Starter
 
-Gulp config for jade, sass (scss), browser-sync \
+Gulp config: JADE / BROWSER SYNC / SASS (SCSS) / ES6
 
 # Dependencies
 
@@ -21,10 +21,6 @@ Install the dependencies for u project:
 `npm i`
 
 `bower i`
-
-Now run: `gulp`
-
-Clear 'dist': `gulp clean`
 
 Development: `npm run dev`
 
