@@ -1,13 +1,14 @@
 # Gulp Starter
 
 ## Technology:
-- GULP
-- BOWER
-- JADE
-- BROWSER SYNC
-- SASS (SCSS)
-- ES6
-- SPRITE
+- Gulp
+- Bower
+- Jade
+- BrowserSync / Autoreload
+- Sass / Autoprefixer & Minification
+- ES6 / Gulp modules
+- Sprite & minification
+- Image Minification
 
 # Dependencies
 
@@ -19,7 +20,7 @@ Install Gulp & Bower globally. Open up u terminal:
 sudo npm i -g gulp bower
 ```
 
-# Getting Started
+# To Get Started:
 
 ```
 git clone https://github.com/russiansoon/gulp-start.git U_PROJECT_NAME
