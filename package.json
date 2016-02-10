@@ -1,6 +1,6 @@
 {
   "name": "gulp-start",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Base gulp configuration //",
   "homepage": "https://github.com/russiansoon/gulp-start",
   "scripts": {
