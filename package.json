@@ -5,7 +5,7 @@
   "homepage": "https://github.com/russiansoon/gulp-start",
   "scripts": {
     "dev": "NODE_ENV=development gulp clean && gulp --env development --progress",
-    "build": "NODE_ENV=production gulp clean && gulp --env production"
+    "build": "NODE_ENV=production gulp clean && gulp prod --env production"
   },
   "author": {
     "name": "Nik Shevchenko",
