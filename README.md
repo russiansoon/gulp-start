@@ -9,6 +9,7 @@
 - ES6 / Gulp modules
 - Sprite & minification
 - Image Minification
+- Favicon generate
 
 # Dependencies
 
