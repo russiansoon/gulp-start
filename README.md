@@ -40,6 +40,10 @@ npm i
 bower i
 ```
 
+Change port & name server: ```lib/gulp/config.js```
+
+Version of CSS: ```package.json```
+
 Start compiling, serving, and watching files:
 ```
 npm run dev
