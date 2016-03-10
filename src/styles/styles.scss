@@ -1,4 +1,10 @@
-@import '../bower_components/bootstrap/scss/bootstrap';
-@import 'globals/variables';
-@import 'components/head';
-@import 'components/footer';
+@import 'base/all';
+
+@import 'helpers/mixins';
+@import 'helpers/variables';
+
+@import 'components/buttons';
+
+@import 'layout/header';
+@import 'layout/nav';
+@import 'layout/footer';

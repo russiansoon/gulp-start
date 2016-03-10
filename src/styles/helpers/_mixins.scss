@@ -1,0 +1,46 @@
+// Google Fonts
+
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,600,700,800&subset=latin,cyrillic);
+
+// @import url(https://fonts.googleapis.com/css?family=Roboto:400,300,500,700,900&subset=latin,cyrillic);
+
+// @import url(https://fonts.googleapis.com/css?family=PT+Sans:400,700&subset=latin,cyrillic);
+
+// @import url(https://fonts.googleapis.com/css?family=Fira+Sans:400,500,700,300&subset=latin,cyrillic);
+
+$open-sans: 'Open Sans', $base-font-family;
+$roboto: 'Roboto', $base-font-family;
+$fira-sans: 'Fira Sans', $base-font-family;
+$pt-sans: 'PT Sans', $base-font-family;
+
+// Font Weights
+
+$light: 300;
+$regular: 400;
+$bold: 700;
+
+// Base Font
+
+$base-font-size: 14px;
+$base-font-family: sans-serif;
+$base-line-height: 1.4;
+$base-font-weight: $regular;
+
+// Colors
+
+$base-color: #f0f0f0;
+$secondary-color: #f1f1f1;
+$font-color: #000;
+$footer-color: #666666;
+
+// Media Queries
+
+$screen-sm: 'only screen and (max-width: 768px)';
+$screen-md: '(min-width: 768px) and (max-width: 1024px)';
+$screen-lg: '(min-width: 1024px)';
+
+// Media Resolution
+
+$mobile: $screen-sm;
+$tablet: $screen-md;
+$desktop: $screen-lg;
