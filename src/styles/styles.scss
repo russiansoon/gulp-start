@@ -2,7 +2,8 @@
 
 @import 'globals/variables';
 
-@import 'mixins/_mixins';
+@import 'mixins/border-radius';
+@import 'mixins/padding';
 
 @import 'components/head';
 @import 'components/footer';

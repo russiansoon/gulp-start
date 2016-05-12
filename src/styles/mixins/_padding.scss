@@ -1,0 +1,6 @@
+// Padding
+// Example: @include padding(20px 30px 40px 50px);
+
+@mixin padding($padding) {
+  padding: $padding;
+}
