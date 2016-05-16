@@ -14,6 +14,6 @@
     "src/bower_components/"
   ],
   "devDependencies": {
-    "bootstrap": "v4.0.0-alpha.2"
+    "normalize-css": "4.1.1"
   }
 }
