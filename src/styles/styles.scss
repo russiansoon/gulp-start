@@ -1,7 +1,12 @@
+/* CSS RESETS */
 @import '../bower_components/normalize-css/normalize';
 
+/* GLOBALS */
 @import 'globals/variables';
 
+/* MIXINS */
+@import 'mixins/background-gradient';
+@import 'mixins/clearfix';
 @import 'mixins/border-radius';
 @import 'mixins/padding';
 
