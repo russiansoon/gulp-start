@@ -3,7 +3,7 @@
 ## Technology:
 - Gulp
 - Bower
-- Jade
+- Pug (ex Jade)
 - BrowserSync / Autoreload
 - Sass / Autoprefixer & Minification
 - ES6 / Gulp modules
